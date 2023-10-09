@@ -1,0 +1,20 @@
+.green{
+    background: rgb(0,175,49);
+    background: linear-gradient(180deg, rgba(0,175,49,0.7511379551820728) 0%, rgba(40,228,90,0.9976365546218487) 44%, rgba(202,255,0,1) 100%, rgba(154,194,0,1) 100%);
+}
+.purple{
+    background: rgb(120,0,175);
+    background: linear-gradient(180deg, rgba(120,0,175,0.7511379551820728) 0%, rgba(228,40,183,0.9976365546218487) 44%, rgba(194,0,62,1) 100%);
+}
+.blue{
+    background: rgb(0,89,175);
+    background: linear-gradient(180deg, rgba(0,89,175,0.7511379551820728) 0%, rgba(27,182,223,0.9976365546218487) 44%, rgba(5,255,219,1) 100%);
+}
+.yellow{
+    background: rgb(255,147,32);
+    background: linear-gradient(180deg, rgba(255,147,32,0.7511379551820728) 0%, rgba(222,206,25,0.9976365546218487) 44%, rgba(255,248,5,1) 100%);
+}
+.violet{
+    background: rgb(231,161,240);
+    background: linear-gradient(180deg, rgba(231,161,240,0.7511379551820728) 0%, rgba(252,192,255,0.9976365546218487) 45%, rgba(255,65,222,1) 100%);
+}
